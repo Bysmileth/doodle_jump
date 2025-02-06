@@ -1,0 +1,20 @@
+body {
+    display: flex; /* Active le modèle de boîte flexible */
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+    height: 100vh; /* Hauteur de la page pour un centrage vertical */
+    margin: 0; /* Supprime les marges par défaut */
+    background-color: rgb(128, 202, 215); /* Optionnel : couleur de fond */
+}
+
+canvas {
+    border: 3px solid rgb(94, 83, 196); /* Bordure pour visualiser le canvas */
+    border-radius: 10px;
+}
+
+p {
+    font-family: Arial, sans-serif; /* Police de caractères */
+    font-size: 1.5em; /* Taille de la police */
+    color: white; /* Couleur du texte */
+    text-align: center; /* Centrage du texte */
+}

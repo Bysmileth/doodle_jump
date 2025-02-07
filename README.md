@@ -15,6 +15,6 @@ Ce projet est une implémentation du jeu **Doodle Jump** en **JavaScript**, util
 ## 🚀 Installation et exécution
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/votre-repo/doodle-jump.git
+   git clone https://github.com/Bysmileth/doodle_jump
    ```
 Puis ouvrez le fichier **doodle.html**

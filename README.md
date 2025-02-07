@@ -6,6 +6,7 @@ Ce projet est une implémentation du jeu **Doodle Jump** en **JavaScript**, util
 - **Mécanique de gravité** et **saut automatique** sur les plateformes.
 - **Augmentation progressive de la difficulté** avec plateformes mobiles et disparaissantes.
 - **Contrôles au clavier** (flèches gauche/droite pour se déplacer).
+- **Passage de droite à gauche de l'écran** et inversement.
 
 ## 🏗️ Architecture du projet
 - **Model** : Gère la logique du jeu (mouvements, gravité, plateformes).
